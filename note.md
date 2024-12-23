@@ -2,6 +2,7 @@
 
 Repository (Repo): thư mục dự án (core)
 Branch: nhánh trong dự án
+Conflict: xung đột
 
 # Commands
 
