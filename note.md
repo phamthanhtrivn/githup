@@ -16,5 +16,8 @@ Branch: nhánh trong dự án
 - git log --oneline
 - git checkout <commit_id> : trở lại các thời điểm được commit
 - git checkout master : trở lại hiện tại
-- git branch: xem các nhánh trong dự án
-- git checkout -b <ten_branch>
+- git branch : xem các nhánh trong dự án
+- git checkout -b <ten_branch> : tạo nhánh mới
+- git checkout <ten_branch> : di chuyển qua các branch
+- git merge <ten_branch> : hợp nhánh vào master
+- git branch -d <ten_branch> : xóa nhánh
