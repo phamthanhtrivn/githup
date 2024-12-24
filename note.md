@@ -3,6 +3,8 @@
 Repository (Repo): thư mục dự án (core)
 Branch: nhánh trong dự án
 Conflict: xung đột
+Local
+Remote
 
 # Commands
 
@@ -22,3 +24,5 @@ Conflict: xung đột
 - git checkout <ten_branch> : di chuyển qua các branch
 - git merge <ten_branch> : hợp nhánh vào master
 - git branch -d <ten_branch> : xóa nhánh
+- git push <duong_dan_git_sau_khi_tao_repo> <ten_nhanh>
+- git push
