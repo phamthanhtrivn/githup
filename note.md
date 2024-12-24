@@ -26,3 +26,4 @@ Remote
 - git branch -d <ten_branch> : xóa nhánh
 - git push <duong_dan_git_sau_khi_tao_repo> <ten_nhanh>
 - git push
+- git clone <duong_dan_git_sau_khi_tao_repo>: lấy code về từ githup
