@@ -1,0 +1,2 @@
+# Xác định file hoặc thư mục không muốn đưa lên git
+.env
