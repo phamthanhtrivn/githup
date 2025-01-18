@@ -28,7 +28,8 @@ Remote
 - git push
 - git clone <duong_dan_git_sau_khi_tao_repo>: lấy code về từ githup
 - git remote add origin <duong_dan_git> : chuyển đường dẫn git thành origin
-- git push origin <ten_nhanh> : đẩy nhánh lên githup
+- git push -u origin <ten_nhanh> : đẩy nhánh lên githup
 - git fetch origin : cập nhật local khi có thay đổi từ remote
 - git checkout -b <ten_nhanh> origin/<ten_nhanh> : cập nhật tên nhánh mới dưới local khi có thay đổi từ remote
+- git pull origin <ten_nhanh>: lấy code từ nhánh về dự án
  
